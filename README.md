@@ -1,11 +1,9 @@
-# typescript-sandbox
-
-Para la parte de cada módulo en la que te planteamos ejercicios con JavaScript puedes usar este sandbox.
-
-Pasos:
-
-- Clonate el proyecto.
-- Instala las dependencias con `npm install`.
-- Ejecuta el sandbox con `npm run dev`.
-- Abre el navegador en `http://localhost:5173/` (si ese puerto no te funciona, mira en la consola donde has hecho el build, puede que este ocupado y se haya abierto en otro puerto).
-- Puedes empezar a meter tu código en el fichero:
+![Captura de pantalla (77)](https://github.com/Palomaamb/condicionales/assets/143645002/5649b2e8-5f37-4164-8159-4a93a865516a)
+![Captura de pantalla (78)](https://github.com/Palomaamb/condicionales/assets/143645002/5d5165cd-bbc5-4158-9245-0b2aa55f4fd2)
+![Captura de pantalla (79)](https://github.com/Palomaamb/condicionales/assets/143645002/e4746626-9684-4d97-af23-9401131698ee)
+![Captura de pantalla (80)](https://github.com/Palomaamb/condicionales/assets/143645002/8ccefa5c-9e95-4049-9395-62bef4f020d4)
+![Captura de pantalla (81)](https://github.com/Palomaamb/condicionales/assets/143645002/4f164c31-3798-4279-a943-495b650bcaa8)
+![Captura de pantalla (82)](https://github.com/Palomaamb/condicionales/assets/143645002/c6f1f215-115b-4f26-b14d-7fbd99f60175)
+![Captura de pantalla (83)](https://github.com/Palomaamb/condicionales/assets/143645002/0a55f764-6c1f-4794-81c0-faeb906f9efa)
+![Captura de pantalla (84)](https://github.com/Palomaamb/condicionales/assets/143645002/9535e879-303a-4579-9284-4e00e560f2e1)
+![Captura de pantalla (76)](https://github.com/Palomaamb/condicionales/assets/143645002/fba04b31-e101-40dd-9e8b-3badaaa624b3)
