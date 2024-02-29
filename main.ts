@@ -65,9 +65,14 @@ function sumaPuntuacion(carta: number): void {
     
     muestraPuntuacion();
     
-    if (score > 7.5 || score === 7.5) {
+    if (score > 7.5) {
         gameOver = true;
         endGame("Game Over");
+    }
+
+    if (score === 7.5) {
+        gameOver = false;
+        endGame("¡Lo has clavado! ¡Enhorabuena!")
     }
 }
 
