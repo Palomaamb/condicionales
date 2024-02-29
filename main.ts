@@ -9,13 +9,10 @@ function muestraPuntuacion(): void {
 }
 
 function dameCarta(): number {
-    let carta: number;
-    do {
-        carta = Math.floor(Math.random() * 10) + 1;
-        if (carta > 7) {
-            carta += 2;
-        }
-    } while (carta > 12); 
+    let carta: number = Math.floor(Math.random() * 10) + 1;
+    if (carta > 7) {
+        carta += 2;
+    }
     return carta;
 }
 
@@ -68,7 +65,7 @@ function sumaPuntuacion(carta: number): void {
     
     muestraPuntuacion();
     
-    if (score > 7.5) {
+    if (score > 7.5 || score === 7.5) {
         gameOver = true;
         endGame("Game Over");
     }
